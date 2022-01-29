@@ -1,2 +1,2 @@
 # dinner-apps-pwa
-Submission Front-end Web Developer Expert Dicoding
+Submission ke 2 Front-end Web Developer Expert Dicoding
